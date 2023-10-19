@@ -10,7 +10,7 @@ def CreateMenu(value):
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme('blue')
 app = ctk.CTk()
-app.geometry('800x400')
+app.geometry('800x404')
 
 
 CalculationType = ctk.StringVar(value='Sourse')
